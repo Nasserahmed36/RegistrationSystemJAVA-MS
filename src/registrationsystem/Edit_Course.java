@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 
 public class Edit_Course extends javax.swing.JFrame {
 
-   
+   // adding new comment
     public Edit_Course() {
 
     }
